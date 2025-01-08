@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daeryak.
+I'm Seunggeun Kim, owner of Studio.via;.
 
 <!--
 **Daeryak/Daeryak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
