@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Seunggeun Kim, owner of Studio.via;.
+I'm Seunggeun Kim.
+- Undergraduate Student Researcher of ACE Lab in Hanyang Univ.
+- Founder & Solution Architect of Studio.via;.
 
 <!--
 **Daeryak/Daeryak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
